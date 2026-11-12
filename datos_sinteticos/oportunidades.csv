@@ -1,0 +1,19 @@
+id_oportunidad,ejecutivo_id,mes,cliente_id,estado,valor_estimado_usd,probabilidad_cierre
+OP-001,EJ-A,2026-01,CLI-001,En negociacion,4100,0.65
+OP-002,EJ-B,2026-01,CLI-002,En negociacion,4800,0.4
+OP-003,EJ-C,2026-01,CLI-003,Cotizacion,5500,0.25
+OP-004,EJ-A,2026-02,CLI-002,En negociacion,4700,0.65
+OP-005,EJ-B,2026-02,CLI-003,En negociacion,5400,0.4
+OP-006,EJ-C,2026-02,CLI-004,Cotizacion,6100,0.25
+OP-007,EJ-A,2026-03,CLI-003,En negociacion,5300,0.65
+OP-008,EJ-B,2026-03,CLI-004,En negociacion,6000,0.4
+OP-009,EJ-C,2026-03,CLI-005,Cotizacion,6700,0.25
+OP-010,EJ-A,2026-04,CLI-004,En negociacion,5900,0.65
+OP-011,EJ-B,2026-04,CLI-005,En negociacion,6600,0.4
+OP-012,EJ-C,2026-04,CLI-006,Cotizacion,7300,0.25
+OP-013,EJ-A,2026-05,CLI-005,En negociacion,6500,0.65
+OP-014,EJ-B,2026-05,CLI-006,En negociacion,7200,0.4
+OP-015,EJ-C,2026-05,CLI-007,Cotizacion,7900,0.25
+OP-016,EJ-A,2026-06,CLI-006,En negociacion,7100,0.65
+OP-017,EJ-B,2026-06,CLI-007,En negociacion,7800,0.4
+OP-018,EJ-C,2026-06,CLI-008,Cotizacion,8500,0.25

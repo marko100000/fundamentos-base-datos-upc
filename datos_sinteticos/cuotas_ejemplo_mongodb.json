@@ -1,0 +1,38 @@
+[
+  {
+    "ejecutivo_id": "EJ-A",
+    "mes": "2026-01",
+    "cuota_usd": 15000,
+    "origen": "sintetico"
+  },
+  {
+    "ejecutivo_id": "EJ-B",
+    "mes": "2026-01",
+    "cuota_usd": 17000,
+    "origen": "sintetico"
+  },
+  {
+    "ejecutivo_id": "EJ-C",
+    "mes": "2026-01",
+    "cuota_usd": 19000,
+    "origen": "sintetico"
+  },
+  {
+    "ejecutivo_id": "EJ-A",
+    "mes": "2026-02",
+    "cuota_usd": 16000,
+    "origen": "sintetico"
+  },
+  {
+    "ejecutivo_id": "EJ-B",
+    "mes": "2026-02",
+    "cuota_usd": 18000,
+    "origen": "sintetico"
+  },
+  {
+    "ejecutivo_id": "EJ-C",
+    "mes": "2026-02",
+    "cuota_usd": 20000,
+    "origen": "sintetico"
+  }
+]
